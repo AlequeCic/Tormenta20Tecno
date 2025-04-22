@@ -1,10 +1,10 @@
-# 🎲 API de Fichas de Personagem – Tormenta 20
+# API de Fichas de Personagem de Tormenta 20
 
 Essa é uma API simples feita em Django + Django REST Framework para gerenciar fichas de personagens do sistema Tormenta 20. 
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - Criar fichas de personagem
 - Listar fichas cadastradas
@@ -14,7 +14,7 @@ Essa é uma API simples feita em Django + Django REST Framework para gerenciar f
 
 ---
 
-## ⚙️ Tecnologias usadas
+## Tecnologias usadas
 
 - Python 3.10+
 - Django
@@ -22,10 +22,7 @@ Essa é uma API simples feita em Django + Django REST Framework para gerenciar f
 - drf-yasg (para documentação Swagger)
 
 ---
-
-## 🛠️ Como rodar o projeto localmente
-
-1. **Clone o repositório:**
+**Clone o repositório:**
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
