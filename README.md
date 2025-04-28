@@ -25,7 +25,7 @@ Essa é uma API simples feita em Django + Django REST Framework para gerenciar f
 1.**Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/AlequeCic/Tormenta20Tecno.git
 cd seu-repositorio
 ```
 
